@@ -2,5 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Commit del profe");
 Console.WriteLine("Prueba Javier");
-Console.WriteLine("Commit del profe");
 Console.WriteLine("Commit del alumno");//Santiago herrera
